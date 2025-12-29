@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Calculadoradegastos/static/css/main.23e736f3.css",
+    "main.js": "/Calculadoradegastos/static/js/main.e7c88434.js",
+    "index.html": "/Calculadoradegastos/index.html",
+    "main.23e736f3.css.map": "/Calculadoradegastos/static/css/main.23e736f3.css.map",
+    "main.e7c88434.js.map": "/Calculadoradegastos/static/js/main.e7c88434.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e736f3.css",
+    "static/js/main.e7c88434.js"
+  ]
+}
